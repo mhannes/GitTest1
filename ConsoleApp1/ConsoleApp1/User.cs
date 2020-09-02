@@ -8,7 +8,6 @@ namespace ConsoleApp1
     {
         public User()
         {
-            //code was added in VS.
 
         }
 
